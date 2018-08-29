@@ -2,8 +2,10 @@ package ru.tmin10.openshifttest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
+@EnableScheduling
 public class OpenshiftTestApplication {
 
 	public static void main(String[] args) {

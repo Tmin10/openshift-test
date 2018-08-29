@@ -1,4 +1,4 @@
-package ru.tmin10.openshifttest.Controllers;
+package ru.tmin10.openshifttest.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
